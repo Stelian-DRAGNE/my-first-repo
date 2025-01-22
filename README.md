@@ -1,1 +1,3 @@
-This is my first repository. Wish me luck :)
+# My First Project 
+
+Welcome to my first GitHub project! 
